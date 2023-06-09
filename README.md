@@ -4,4 +4,4 @@
 
 # Feel free to use the code everywhere (credit or not depend on you)
 
-# [Join our Discord server (ANIME & MANGA server) to support me](discord.gg/wbw)
+## [Click here to join our Discord server (ANIME & MANGA server) to support my projects ^^](discord.gg/wbw)
