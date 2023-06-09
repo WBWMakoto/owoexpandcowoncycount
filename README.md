@@ -1,0 +1,2 @@
+# owoexpcount
+discord.gg/wbw 
