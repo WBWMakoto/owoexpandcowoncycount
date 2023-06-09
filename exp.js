@@ -8,9 +8,8 @@ let totalExp = 0;
 
 for (let level = 1; level <= 75; level++) {
   const expRequired = getXpRequired(level);
-  levels1To75.push({ level, expRequired });
   totalExp += expRequired;
+  levels1To75.push({ level, expRequired, totalExp });
 }
 
 console.log("EXP required for levels 1 to 75:", levels1To75);
-console.log("Total EXP required for levels 1 to 75:", totalExp);
