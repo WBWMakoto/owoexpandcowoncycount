@@ -3,7 +3,7 @@ const levels = 75;
 async function calculateLimits() {
   const levelLimits = [];
 
-  for (let level = 1; level <= 75; level++) {
+  for (let level = 0; level <= 75; level++) {
     const limits = await getUserLimits(level);
     levelLimits.push({ level, ...limits });
   }
