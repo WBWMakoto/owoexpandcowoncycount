@@ -4,6 +4,8 @@
 
 [Momo](https://me.momo.vn/OeIRu8IViku9TyiPu4Te)
 
+[OwO](https://discord.gg/wbw) 
+
 # OUTPUT EXAMPLE (RUN CODE YOURSELF OR CUSTOM IT THEN RUN TO SEE ALL OF THE OUTPUT)
 
 ![image](https://github.com/WBWMakoto/owoexpcount/assets/57854962/db926ace-5af2-4e51-9065-e24124a66bbb)
